@@ -3,9 +3,9 @@
 **Author:** Dinesh Gurumoorthy  
 **Date:** November 11, 2025  
 
-### Notebook link:
+### Notebook link: https://github.com/dineshgurum8/applied-ml-dineshguru/blob/main/ml-midterm/classification_dineshguru.ipynb
 
-### Peer Review link: 
+### Peer Review link: https://github.com/dineshgurum8/applied-ml-dineshguru/blob/main/ml-midterm/peer_review.md 
 
 
 
