@@ -4,7 +4,7 @@
 **Date:** November 114, 2025  
 
 
-- NOTEBOOK LINK: [ml04_branton_notebook]()
+- NOTEBOOK LINK:(https://github.com/dineshgurum8/applied-ml-dineshguru/blob/main/notebooks/project04/ml04_dineshguru.ipynb)
 
 **Project Overview**
 This notebook demonstrates comprehensive regression modeling techniques by predicting Titanic passenger fares using multiple algorithms and feature combinations. The project systematically compares Linear Regression, Polynomial Regression, Ridge Regression, and Elastic Net models to understand continuous target prediction challenges.
