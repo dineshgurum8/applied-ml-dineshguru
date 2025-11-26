@@ -21,7 +21,7 @@ linear regression model to predict MPG.
 -   Linear regression with train/test split\
 -   Model evaluation (MAE, RMSE, R²)
 
-## ▶ How to Run
+##  How to Run
 
 1.  Install required packages:
 
@@ -51,4 +51,3 @@ Python.\
 It helps build skills in **data cleaning**, **EDA**, and **machine
 learning modeling**.
 
-Feel free to modify or extend the analysis!
